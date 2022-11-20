@@ -34,3 +34,6 @@ To run the app:
 ```bash
 ./artisan serve
 ```
+
+### Routes
+Routes are listed in the root endpoint: http://localhost:8000

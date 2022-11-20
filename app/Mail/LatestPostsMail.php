@@ -33,7 +33,7 @@ class LatestPostsMail extends Mailable
     public function envelope()
     {
         return new Envelope(
-            subject: 'Latest Posts Mail',
+            subject: 'Latest posts by user',
         );
     }
     /**
